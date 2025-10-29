@@ -1,4 +1,4 @@
-# Event_Management_Website
+# Event Management Website
 
 ## College Event Management System
 This repository contains a comprehensive web-based project designed for managing college events. Built using HTML, CSS, JavaScript, and PHP, this project facilitates seamless event planning and management, providing users with an interactive and user-friendly experience.
