@@ -1,8 +1,8 @@
-# Event Management Website
+)# Event Management Website
 
 ## College Event Management System
 
-![Image Alt]([image_url](https://github.com/devray11/Event-Management-System/blob/cf9930010bbde09c3ebabb53c165bbcee7fdd6d1/Output-Image-1.png)
+ ![Image Alt]([image_url](https://github.com/devray11/Event-Management-System/blob/9a689a42483fc98f111d38f500ca96b1e598cd69/Output-Image-1.png))
 This repository contains a comprehensive web-based project designed for managing college events. Built using HTML, CSS, JavaScript, and PHP, this project facilitates seamless event planning and management, providing users with an interactive and user-friendly experience.
 
 Features
